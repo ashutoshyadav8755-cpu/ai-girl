@@ -1,0 +1,13 @@
+body {
+  background: black;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#g irl {
+  width: 250px;
+}
